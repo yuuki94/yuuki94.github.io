@@ -1,0 +1,32 @@
+body {
+color: red;
+font-size: 20px;
+background: #ffff00;
+/*	background-image: url('SS.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+*/
+}
+h1 {
+  color: purple;
+}
+
+.Water {
+  color: red;
+  text-align: right;
+}
+.Earth {
+ color: blue;
+ text-align: left;
+	
+}
+.Rock {
+	 color: black;
+text-align: right;
+	
+}
+
+#important {
+	font-size: 50px;
+
+}
